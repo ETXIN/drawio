@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T13:10:50.605Z" agent="5.0 (Windows)" version="20.3.0" etag="r-IUL-N_nykuhSZMl62j" type="github"><diagram id="uET7d0CnFd0KlSg3mmGy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-27T13:19:05.644Z" agent="5.0 (Windows)" etag="JyXpEWI_NtyqPpVZHoPS" version="20.3.0" type="github">
+  <diagram id="uET7d0CnFd0KlSg3mmGy" name="第 1 页">
+    <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NEmmMRxPrcAIzn5GvSas-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="NEmmMRxPrcAIzn5GvSas-1" target="NEmmMRxPrcAIzn5GvSas-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEmmMRxPrcAIzn5GvSas-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="NEmmMRxPrcAIzn5GvSas-1" target="NEmmMRxPrcAIzn5GvSas-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEmmMRxPrcAIzn5GvSas-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="NEmmMRxPrcAIzn5GvSas-1" target="NEmmMRxPrcAIzn5GvSas-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEmmMRxPrcAIzn5GvSas-1" value="&lt;div&gt;组织战略：愿景、使命、目标等&lt;/div&gt;&lt;div&gt;1）业务范围&lt;/div&gt;&lt;div&gt;2）核心竞争力&lt;/div&gt;&lt;div&gt;3）经营管理方式&lt;/div&gt;" style="rounded=0;align=left;verticalAlign=middle;html=1;whiteSpace=wrap;container=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEmmMRxPrcAIzn5GvSas-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="NEmmMRxPrcAIzn5GvSas-4" target="NEmmMRxPrcAIzn5GvSas-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEmmMRxPrcAIzn5GvSas-4" value="&lt;div&gt;IT战略：信息化战略&lt;/div&gt;&lt;div&gt;1）技术范围&lt;/div&gt;&lt;div&gt;2）系统竞争力（效能指标）&lt;/div&gt;&lt;div&gt;3）IT治理（信息化管理）&lt;br&gt;&lt;/div&gt;" style="rounded=0;align=left;verticalAlign=middle;html=1;whiteSpace=wrap;container=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="280" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEmmMRxPrcAIzn5GvSas-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="NEmmMRxPrcAIzn5GvSas-6" target="NEmmMRxPrcAIzn5GvSas-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEmmMRxPrcAIzn5GvSas-6" value="&lt;div&gt;组织结构与业务流程&lt;/div&gt;&lt;div&gt;1）责任与授权方式(集中或分散)&lt;/div&gt;&lt;div&gt;2）价值链与关键业务环节&lt;br&gt;&lt;/div&gt;" style="rounded=0;align=left;verticalAlign=middle;html=1;whiteSpace=wrap;container=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry y="140" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NEmmMRxPrcAIzn5GvSas-7" value="&lt;div&gt;IT架构：信息技术架构&lt;/div&gt;&lt;div&gt;1）关键技术&lt;/div&gt;&lt;div&gt;2）应用系统架构&lt;/div&gt;&lt;div&gt;3）信息基础设施&lt;br&gt;&lt;/div&gt;" style="rounded=0;align=left;verticalAlign=middle;html=1;whiteSpace=wrap;container=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="180" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
